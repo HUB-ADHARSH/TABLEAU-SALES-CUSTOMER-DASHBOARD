@@ -31,3 +31,48 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
   Present weekly trends for sales and profit.  
   Highlight weeks that are above and below the average.  
   Highlight weeks that are above the average to draw attention to sales and profit performance.
+
+----
+
+# DASHBOARD DEVELOPMENT CHECKLIST
+
+---
+
+## ANALYSE REQUIREMENTS  
+- Collect Requirements  
+- Choose the Right Charts  
+- Draw Mockups  
+- Choose Colors  
+
+---
+
+## BUILD THE DATA SOURCE  
+- Connect Data  
+- Create Data Model  
+- Rename Fields/Tables  
+- Check Data Types ✅  
+- Understand Data 🔴  
+
+---
+
+## BUILDING CHARTS  
+- Create Calculated Fields & Test  
+- Build Chart  
+  - Format  
+    - Remove Lines & Grids  
+    - Clean up Axis & Headers  
+    - Coloring  
+    - Tooltip  
+
+---
+
+## BUILDING DASHBOARD  
+- Draw Mockups for Containers  
+- Build Container Structure  
+- Put All Charts Together  
+  - Format  
+    - Distributed Content “Evenly”  
+    - Format Colors, Sizes, etc.  
+    - Add Events (Inner/Outer Padding)  
+- Add Filters & Dynamic  
+- Add Icons  
