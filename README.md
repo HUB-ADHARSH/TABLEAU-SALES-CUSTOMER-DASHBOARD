@@ -4,7 +4,7 @@ Tableau dashboard that provides overtime data's insights into sales performance,
 
 ---
 
-## INTRODUCTION  
+## 📄 INTRODUCTION  
 The purpose of this user story is to build dashboards using Tableau to analyze year-over-year sales performance and customer data.
 
 ---
@@ -14,7 +14,7 @@ The purpose of this user story is to build dashboards using Tableau to analyze y
 ### DASHBOARD PURPOSE  
 To present an overview of sales metrics and trends to analyze year-over-year sales performance and understand sales trends.
 
-### KEY REQUIREMENTS
+### 📖 KEY REQUIREMENTS
 
 - **KPI OVERVIEW**  
   Total sales, profits, and quantity for the current year and the previous year.
@@ -34,7 +34,7 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
 
 ----
 
-# DASHBOARD DEVELOPMENT CHECKLIST
+# 📊 DASHBOARD DEVELOPMENT CHECKLIST
 
 ---
 
