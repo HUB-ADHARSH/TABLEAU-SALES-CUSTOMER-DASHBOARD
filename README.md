@@ -38,7 +38,7 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
 
 ---
 
-## ANALYSE REQUIREMENTS  
+## ✅ ANALYSE REQUIREMENTS  
 - Collect Requirements  
 - Choose the Right Charts  
 - Draw Mockups  
@@ -46,7 +46,7 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
 
 ---
 
-## BUILD THE DATA SOURCE  
+## ✅ BUILD THE DATA SOURCE  
 - Connect Data  
 - Create Data Model  
 - Rename Fields/Tables  
@@ -55,7 +55,7 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
 
 ---
 
-## BUILDING CHARTS  
+## ✅ BUILDING CHARTS  
 - Create Calculated Fields & Test  
 - Build Chart  
   - Format  
@@ -66,7 +66,7 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
 
 ---
 
-## BUILDING DASHBOARD  
+## ✅ BUILDING DASHBOARD  
 - Draw Mockups for Containers  
 - Build Container Structure  
 - Put All Charts Together  
