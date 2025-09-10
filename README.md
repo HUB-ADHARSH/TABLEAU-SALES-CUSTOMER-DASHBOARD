@@ -76,3 +76,14 @@ To present an overview of sales metrics and trends to analyze year-over-year sal
     - Add Events (Inner/Outer Padding)  
 - Add Filters & Dynamic  
 - Add Icons  
+
+## 📄 LICENSE
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+---
+
+🌟 ABOUT ME
+
+ADHARSH C ==> ARTIFICIAL INTELLIGENCE & DATA SCIENCE ENGINEER
+---
